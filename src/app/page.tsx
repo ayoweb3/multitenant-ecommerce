@@ -1,5 +1,3 @@
-import { Button } from "@/components/ui/button";
-
 
 export default function Home() {
   return (
@@ -7,6 +5,7 @@ export default function Home() {
       <p className="text-purple-500">
         HELLO WORLD!
       </p>
+      <p>Mr Ayodeji, it&apos;s lovely to meet you</p>
    </div>
   );
 }
